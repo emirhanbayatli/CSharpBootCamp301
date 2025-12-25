@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CSharpBootCamp301.BussinessLayer/CSharpBootCamp301.BussinessLayer.csproj" />
+  <Project Path="CSharpBootCamp301.DataAccessLayer/CSharpBootCamp301.DataAccessLayer.csproj" />
+  <Project Path="CSharpBootCamp301.EntityLayer/CSharpBootCamp301.EntityLayer.csproj" />
+  <Project Path="CSharpBootCamp301.PresentationLayer/CSharpBootCamp301.PresentationLayer.csproj" />
+</Solution>
