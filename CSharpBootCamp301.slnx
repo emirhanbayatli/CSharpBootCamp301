@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="CSharpBootCamp301.BussinessLayer/CSharpBootCamp301.BussinessLayer.csproj" />
-  <Project Path="CSharpBootCamp301.DataAccessLayer/CSharpBootCamp301.DataAccessLayer.csproj" />
-  <Project Path="CSharpBootCamp301.EntityLayer/CSharpBootCamp301.EntityLayer.csproj" />
-  <Project Path="CSharpBootCamp301.PresentationLayer/CSharpBootCamp301.PresentationLayer.csproj" />
+  <Project Path="CSharpBootCamp301.BussinessLayer/CSharpBootCamp301.BussinessLayer.csproj" Id="47db273e-2396-4a02-bfa2-80c515316e21" />
+  <Project Path="CSharpBootCamp301.DataAccessLayer/CSharpBootCamp301.DataAccessLayer.csproj" Id="b237de6b-452f-4d66-b410-2bb97eb240e7" />
+  <Project Path="CSharpBootCamp301.EntityLayer/CSharpBootCamp301.EntityLayer.csproj" Id="93d8857b-4d63-4b66-93c5-a98c4972c125" />
+  <Project Path="CSharpBootCamp301.PresentationLayer/CSharpBootCamp301.PresentationLayer.csproj" Id="64610790-16a1-46b3-b10a-c8db5ea3240a" />
 </Solution>
