@@ -20,6 +20,7 @@ namespace CSharpBootCamp301.EFPProject
         public Nullable<decimal> Capacity { get; set; }
         public string DayNight { get; set; }
         public Nullable<int> GuideId { get; set; }
+        public Nullable<decimal> Price { get; set; }
     
         public virtual Guide Guide { get; set; }
     }
