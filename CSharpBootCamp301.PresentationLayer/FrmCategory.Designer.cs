@@ -76,8 +76,9 @@
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(172, 42);
             this.btnShow.TabIndex = 4;
-            this.btnShow.Text = "Show";
+            this.btnShow.Text = "List";
             this.btnShow.UseVisualStyleBackColor = true;
+            this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
             // 
             // txtCategoryName
             // 
@@ -134,6 +135,7 @@
             this.btnAdd.TabIndex = 10;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // btnDelete
             // 
@@ -143,6 +145,7 @@
             this.btnDelete.TabIndex = 11;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnGetById
             // 
@@ -152,6 +155,7 @@
             this.btnGetById.TabIndex = 13;
             this.btnGetById.Text = "Get By ID";
             this.btnGetById.UseVisualStyleBackColor = true;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // btnUpdate
             // 
@@ -161,6 +165,7 @@
             this.btnUpdate.TabIndex = 12;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // FrmCategory
             // 
