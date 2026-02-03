@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CSharpBootCamp301.PresentationLayer
+namespace CSharpBootCamp301.EFPProject
 {
     internal static class Program
     {
@@ -16,9 +16,7 @@ namespace CSharpBootCamp301.PresentationLayer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmProduct());
-
-           
+            Application.Run(new FrmStatistics());
         }
     }
 }
