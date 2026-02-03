@@ -9,5 +9,6 @@ namespace CSharpBootCamp301.BussinessLayer.Abstract
 {
     public interface IProductService:IGenericService<Product>
     {
+         List<object> TGetProductsWithCategory();
     }
 }
